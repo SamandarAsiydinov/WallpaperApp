@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WallpaperApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fire_wall">Firebase Wallpapers</string>
+    <string name="well">Welcome to Firebase Wallpapers</string>
+    <string name="creat">Creating New Account</string>
+    <string name="error">Error :</string>
+    <string name="account">Account Created, Loggin In</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="wall">Wallpaper Set</string>
+</resources>
